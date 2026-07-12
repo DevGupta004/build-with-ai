@@ -13,7 +13,7 @@ No fluff. Just working code.
 | # | Guide | What You Build | Stack | Model |
 |---|-------|---------------|-------|-------|
 | 01 | [E-Commerce App — SwiftMart](guides/01-ecommerce-app.md) | React Native customer app + Node.js REST API + Next.js admin panel | RN 0.85 · Node 20 · Next.js 15 · MySQL | Fable 5 |
-| 02 | [Looping in Claude Code](guides/02-looping-in-claude-code.md) | How to use `/goal`, `/loop`, `/schedule` — self-correcting AI agent systems | Claude Code | Any |
+| 02 | [Prompting vs Looping with AI](guides/02-looping-in-claude-code.md) | How to build self-correcting AI agent systems — works with any AI tool | Claude Code · ChatGPT · Cursor · n8n | Any |
 
 > More guides coming. Star the repo to get notified.
 
